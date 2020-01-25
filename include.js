@@ -107,6 +107,10 @@ let cards = [
     ["Mounion vaakuna", "./Art/MAhoMaha12112017/MAhoMaha12112017.html", "./Art/MAhoMaha12112017/mouniovaakuna_pieni_skaalattu.PNG", "MAho", "https://github.com/MAhoMaha12112017"],
     ["bouncing ball", "./Art/jaeja/index.html", "./Art/jaeja/ball.PNG", "jae", "https://github.com/jaeja"],
     ["Egg", "./Art/tomikonio/egg.html", "./Art/tomikonio/egg.png", "tomikonio", "https://github.com/tomikonio"],
+    ["CSS Dog", "./Art/Dog/index.html", "./Art/Dog/dog.gif", "Chintu Yadav Sara", "https://github.com/chintuyadav" ],
+    ["Mahatma Gandhi", "./Art/Mahatma%20Gandhi/index.html", "./Art/Mahatma%20Gandhi/Gandhi.png", "Chintu Yadav Sara", "https://github.com/chintuyadav"],
+    ["WindMill Animation", "./Art/WindMill/index.html", "./Art/WindMill/windmill.gif", "Chintu Yadav Sara", "https://github.com/chintuyadav"],
+    ["Pure_CSS_City",  "./Art/Pure_CSS_City/index.html", "./Art/WindMill/city.jpeg", "Julitree", "https://github.com/julitree"]
 ];
 
 
